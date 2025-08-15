@@ -3,7 +3,7 @@ O desafio solicitado consiste em implementar a lógica com JavaScript, onde se c
 
 *O projeto foi desenvolvido como parte do desafio da **DIO (Digital Innovation One)**.*
 
-## Sobre o Projeto
+## 🌟Sobre o Projeto
 No projeto, o jogador coloca o seu nome e a sua quantidade de XP classifica o nivel no jogo.
 Para criar o classificador de nível de Herói foi utilizado
 - Variáveis
@@ -21,7 +21,7 @@ Para criar o classificador de nível de Herói foi utilizado
 - Se XP for entre 9.001 e 10.000= Imortal
 - Se XP for maior ou igual a 10.001 = Radiante
 
-## Saída
+## 🌟Saída
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
@@ -41,7 +41,7 @@ Como testar a funcionalidade
 ```
 
 
-# Desenvolvedor
+# 👩🏻‍💻Desenvolvedor
 Desenvolvido por Keila Moloni Stefani
 ________________________________________
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
