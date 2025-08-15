@@ -3,7 +3,7 @@ O desafio solicitado consiste em implementar a lógica com JavaScript, onde se c
 
 *O projeto foi desenvolvido como parte do desafio da **DIO (Digital Innovation One)**.*
 
-# Sobre o Projeto
+## Sobre o Projeto
 No projeto, o jogador coloca o seu nome e a sua quantidade de XP classifica o nivel no jogo.
 Para criar o classificador de nível de Herói foi utilizado
 - Variáveis
